@@ -10,7 +10,16 @@ The code has been tested running under Python 3.8 with the following packages in
 - torch==1.7.1
 
 # Cite
-
+## A short version:
+```bibtex
+@INPROCEEDINGS{10884378,
+  author={Tan, Zhizhong and Hu, Min and Liu, Bin and Yin, Guosheng},
+  booktitle={2024 IEEE International Conference on Data Mining (ICDM)}, 
+  title={Futures Quantitative Investment With Heterogeneous Continual Graph Neural Network}, 
+  year={2024},
+  pages={851-856}}
+```
+## The journal version:
 ```bibtex
 @article{10981815,
   author={Hu, Min and Tan, Zhizhong and Liu, Bin and Yin, Guosheng},
@@ -22,3 +31,4 @@ The code has been tested running under Python 3.8 with the following packages in
   pages={4104-4116}
   }
 ```
+
